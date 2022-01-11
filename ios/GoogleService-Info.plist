@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>59219863380-rntivlffoegt10ekc0lntp9t6v0umurv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59219863380-rntivlffoegt10ekc0lntp9t6v0umurv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABa51W7uB9fniMuP5iGRCirLZm-u3jo4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59219863380</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fdl.driver</string>
+	<key>PROJECT_ID</key>
+	<string>fdl-courier</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fdl-courier.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59219863380:ios:2287f4fa6578a87dc30ac1</string>
+	<key>DATABASE_URL</key>
+	<string>https://fdl-courier.firebaseio.com</string>
+</dict>
+</plist>

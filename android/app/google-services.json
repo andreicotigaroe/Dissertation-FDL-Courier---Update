@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59219863380",
+    "firebase_url": "https://fdl-courier.firebaseio.com",
+    "project_id": "fdl-courier",
+    "storage_bucket": "fdl-courier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59219863380:android:10abc8c378734ac8c30ac1",
+        "android_client_info": {
+          "package_name": "com.fdl.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59219863380-t3fapeabi5gm8ms3u83bdlh7rji7sglo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVv401uObbRsbrwhiUJmq7wKf5tT9rWI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59219863380-t3fapeabi5gm8ms3u83bdlh7rji7sglo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59219863380-rntivlffoegt10ekc0lntp9t6v0umurv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fdl.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

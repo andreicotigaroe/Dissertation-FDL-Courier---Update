@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#27acb1</color>
+    <color name="primary_dark">#262626</color>
+    <color name="splashscreen_bg">#FFFFFF</color>
+    <color name="status_bg">#262626</color>
+</resources>
